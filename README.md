@@ -30,7 +30,7 @@ O banco de dados é composto pelas seguintes **5 tabelas principais**:
 
 ### 🖼️ Modelo Conceitual
 
-[Modelo Lógico](https://raw.githubusercontent.com/NoKKziN/Imagens/Modelos/Modelo_conceitual.png)
+[Modelo Lógico](https://raw.github.com/NoKKziN/Atividade_locadora_de_veiculos/blob/main/Imagens/Modelos/Modelo_conceitual.png)
 
 ---
 
