@@ -30,8 +30,6 @@ O banco de dados é composto pelas seguintes **5 tabelas principais**:
 
 ### 🖼️ Modelo Conceitual
 
-> _(Insira aqui o print ou o link do diagrama conceitual — exemplo: DER / Diagrama Entidade-Relacionamento)_
-
 ![Modelo Conceitual](![image](https://github.com/user-attachments/assets/32afc7b2-5657-4b83-90ec-cdae551acee1)
 )
 
@@ -39,7 +37,6 @@ O banco de dados é composto pelas seguintes **5 tabelas principais**:
 
 ### 🖼️ Modelo Lógico
 
-> _(Insira aqui o print ou o link do diagrama lógico — exemplo: Diagrama Relacional com tabelas e atributos)_
 
 ![Modelo Lógico](![image](https://github.com/user-attachments/assets/edd7d8f7-a5a0-4fc9-a604-7440eb87ed0f)
 )
