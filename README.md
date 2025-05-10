@@ -11,6 +11,11 @@ Este projeto consiste na modelagem e implementação de um banco de dados relaci
 - SQL (DDL & DML)
 
 ---
+## ▶️ Link para o vídeo no Youtube
+
+- Link: https://youtu.be/pbLSkiaAPTA
+
+---
 
 ## 🗂️ Modelagem do Banco de Dados
 
